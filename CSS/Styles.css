@@ -140,7 +140,8 @@ ul#services li{
 .team-section{
     overflow: hidden;
     text-align: center;
-    background: #34495e;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.664),rgba(0, 0, 0, 0.664)), url(../Images/nigeria2.jpg);
+    background-size: cover;
     padding: 60px;
 
 }
