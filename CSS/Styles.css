@@ -105,17 +105,23 @@ padding: 4px;
 height: 25px;
 width: 250px;
 }
+.container #client{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase; 
+}
 #boxes{
     margin-top: 20px;
 }
 #boxes .box{
-    width: 30%;
+    width: 50%;
     float: left;
     text-align: center;
     padding: 10px;
 }
 #boxes .box img{
-    width: 90px;
+    width: 100px;
 }
 aside#sidebar{
 float: right;

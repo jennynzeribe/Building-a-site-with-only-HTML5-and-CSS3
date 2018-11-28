@@ -1,1 +1,1 @@
-alert('Hello, welcome to TUBA');
+// alert('Hello, welcome to TUBA');
