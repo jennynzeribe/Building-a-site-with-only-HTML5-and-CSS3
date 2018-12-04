@@ -1,0 +1,11 @@
+body{
+    background: url(../Images/ballpen-business-cell-phone-796602.jpg);
+    background-size: cover;
+    color: white;
+}
+.page-title{
+    margin-top: 15px;
+}
+footer{
+    margin-top: 235px;
+}
