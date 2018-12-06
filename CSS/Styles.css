@@ -11,7 +11,7 @@ body{
     background-color: #f4f4f4;
 }
 :root {
-    --sexy-blue: #3498db;
+    --sexy-blue: #2e86de;
     --dark-blue:#2980b9;
 }
 
@@ -129,7 +129,7 @@ header a:hover{
     float: right;
     margin-top: 15px;
 }
-#newsletter input[type=name], input[type=password]{
+#newsletter input[type=name], input[type=password], input[type=email] {
 padding: 20px;
 height: 25px;
 width: 250px;
