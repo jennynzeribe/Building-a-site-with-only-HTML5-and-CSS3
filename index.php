@@ -1,4 +1,5 @@
 <?php
+echo 'hello world'
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -7,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="CSS/Styles.css">
-    <link rel="shortcut icon" href="/Images/csdc-2.png" type="image/x-icon">
+    <link rel="shortcut icon" href="Images/csdc-2.png" type="image/x-icon">
     <script src="JS/Index.js"></script>
     <title>CSDC Systems Solutions Limited / Welcome</title>
 </head>

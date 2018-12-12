@@ -1,5 +1,9 @@
-// alert('Hello, welcome to TUBA');
+$(document).ready(function(){
+  $(".btn").click(function(){
+    $(".modal").css("display", "block"); 
+  })
 
-function animateScript() {
-    document.getElementsByClassName('box');
-}
+  $(".close").click(function(){
+    $(".modal").css("display", "none"); 
+  })
+});
