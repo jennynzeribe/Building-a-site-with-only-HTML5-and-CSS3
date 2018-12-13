@@ -1,13 +1,15 @@
 .btn{
+  border-radius: 100px;
   padding: 10px;
   margin: 20px;
   max-width: 100px;
-  color: #fff;
+  color: #000;
   border: 1px solid var(--sexy-blue);
   font-size: 12px;
 }
 .btn:hover{
   background: #333;
+  border-radius: 100px;
   /* color: #0066ff;
   border: 1px solid #0066ff;
   cursor: pointer; */
@@ -28,11 +30,14 @@
 }
 .close{
   padding: 2px;
-  /* position: absolute;
+  position: absolute;
   top: 5px;
   right: 4px;
-  height: 20px; */
-  background:var(--sexy-blue);
+  height: 20px;
+  /* background:var(--sexy-blue); */
   color: #fff;
   cursor: pointer;
+}
+.close:hover{
+  color: red;
 }
