@@ -51,7 +51,9 @@ ul{
     padding-left: 20px;
     padding-right: 20px;
     color: #ffffff;
+    font-size: 15px;
     font-family: 'Lato', sans-serif;
+    border-radius: 20%;
 }
 header{
     background: #35424a;
@@ -147,12 +149,32 @@ font-family: 'Lato', sans-serif;
     font-weight: bold;
     text-transform: uppercase; 
 }
+
 #boxes{
-    margin-top: 20px;
+    margin-top: 20px;   
+}
+#real1{
+    border: 1px solid pink;
+    padding: 200px;
+}
+#real2{
+    border: 1px solid coral;
+}
+/* #real3 img{
+    border: 1px solid blue;
+    padding: 20px;
+} */
+#real3{
+    border: 1px solid green;
+}
+#real4{
+    border: 1px solid red;
+    padding: 20px;
 }
 #boxes .box{
     width: 50%;
     float: left;
+    /* border: 2px dotted pink; */
     text-align: center;
     padding: 10px;
 }
